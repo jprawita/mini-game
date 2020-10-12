@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mini-games/precache-manifest.909186ec5da1af80b2508253676f530e.js"
+  "/mini-game/precache-manifest.ce31e47552f31e3966d7204d40371a1a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "jp-game-01"});
