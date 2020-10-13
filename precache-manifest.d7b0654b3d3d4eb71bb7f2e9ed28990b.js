@@ -4,8 +4,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mini-game/css/alert.b4219898.css"
   },
   {
-    "revision": "d59652b5ffb90d51082a",
-    "url": "/mini-game/css/app.9b99553c.css"
+    "revision": "aacf0c3d901d69cac5c7",
+    "url": "/mini-game/css/app.928d47ac.css"
   },
   {
     "revision": "4ff901425fd76843598d",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mini-game/img/flip-the-card.8f9562b7.svg"
   },
   {
-    "revision": "339f128c642edc005b64d19186e9944f",
+    "revision": "a1e8d79b1337aae7ad7050596c0e54ef",
     "url": "/mini-game/index.html"
   },
   {
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mini-game/js/alert.04fecfca.js"
   },
   {
-    "revision": "d59652b5ffb90d51082a",
-    "url": "/mini-game/js/app.859f6b29.js"
+    "revision": "aacf0c3d901d69cac5c7",
+    "url": "/mini-game/js/app.8c8976ca.js"
   },
   {
     "revision": "4ff901425fd76843598d",
